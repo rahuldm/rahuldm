@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter, Rect.js , Node.js etc**
 
-- 💬 Ask me about **flutter ,C ,C++ , **
+- 💬 Ask me about **flutter ,C ,C++**
 
 - 📫 How to reach me **rahuljacoob@gmail.com**
 

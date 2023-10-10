@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahuljacoob1" target="blank"><img src="https://img.shields.io/twitter/follow/rahuljacoob1?logo=twitter&style=for-the-badge" alt="rahuljacoob1" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, Rect.js , Node.js etc**
+- 🌱 I’m currently learning **flutter, Rect.js**
 
 - 💬 Ask me about **flutter ,C ,C++**
 

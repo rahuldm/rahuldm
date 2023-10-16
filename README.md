@@ -6,6 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/rahuljacoob1" target="blank"><img src="https://img.shields.io/twitter/follow/rahuljacoob1?logo=twitter&style=for-the-badge" alt="rahuljacoob1" /></a> </p>
+<p>&nbsp;<br>
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <img align="right" alt="GIF" src="https://ruya.studio/assets/images/dev.webp?raw=true" width="520" height="300" />
 
